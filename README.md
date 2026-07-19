@@ -427,7 +427,7 @@ B.Tech Computer Science and Engineering
 
 SASTRA Deemed University
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/rajeswari-0709
 
 ---
 
